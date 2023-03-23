@@ -2,4 +2,3 @@ belajar git
 belajar ip versi
 belajar ip v4
 belajar ip v6
-belajar web devolopment
